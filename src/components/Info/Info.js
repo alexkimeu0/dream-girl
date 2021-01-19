@@ -20,12 +20,12 @@ const Info = () => {
 
     // Handle previous click
     const previous = (id) => {
-        id > 1 ? setCutrentLine(lines[id - 1]) : setCutrentLine(lines[id]);
+        id > 0 ? setCutrentLine(lines[id - 1]) : setCutrentLine(lines[id]);
     }
 
     // Handle next click
     const next = (id) => {
-        id < mistari.length  ? setCutrentLine(lines[id+1]) : setCutrentLine(lines[id])
+        id < mistari.length-1  ? setCutrentLine(lines[id+1]) : setCutrentLine(lines[id])
     }
 
     return (
