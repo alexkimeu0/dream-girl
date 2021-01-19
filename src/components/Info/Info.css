@@ -1,0 +1,38 @@
+.info {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.info__card {
+    border: 1px solid #f4f4f2;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: .5rem;
+    padding: 1rem;
+}
+
+.info__card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.info__card > img {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 1rem;
+}
+
+.info__card > p {
+    max-width: 700px;
+    line-height: 1.4;
+    letter-spacing: 1px;
+    margin-bottom: .5rem;
+}
+
+.info__arrows {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
