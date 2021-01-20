@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dream-girl/static/css/main.809c8244.chunk.css",
-    "main.js": "/dream-girl/static/js/main.a91562cb.chunk.js",
-    "main.js.map": "/dream-girl/static/js/main.a91562cb.chunk.js.map",
+    "main.js": "/dream-girl/static/js/main.50ff54ec.chunk.js",
+    "main.js.map": "/dream-girl/static/js/main.50ff54ec.chunk.js.map",
     "runtime-main.js": "/dream-girl/static/js/runtime-main.f4d881d5.js",
     "runtime-main.js.map": "/dream-girl/static/js/runtime-main.f4d881d5.js.map",
     "static/js/2.7213482a.chunk.js": "/dream-girl/static/js/2.7213482a.chunk.js",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.f4d881d5.js",
     "static/js/2.7213482a.chunk.js",
     "static/css/main.809c8244.chunk.css",
-    "static/js/main.a91562cb.chunk.js"
+    "static/js/main.50ff54ec.chunk.js"
   ]
 }
