@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react'
 
 import { IconButton } from '@material-ui/core'
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos'
+import FavoriteIcon from '@material-ui/icons/Favorite'
+
 import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos'
 
 import mistari from '../../mistari'
@@ -42,7 +44,14 @@ const Info = () => {
                         <ArrowForwardIosIcon />
                     </IconButton>
                 </div>
-            </div>            
+            </div>   
+            
+            <div className="info__caution">
+                <p>These sweet nothings don't entirely represent my thoughts, but nikakupata pia siwezi mind mamaa-:)</p>
+                <p className="copy">
+                    Made with mob&nbsp; <FavoriteIcon /> &nbsp;by &copy; <a href="https://github.com/alexkimeu0" target="_blank">Alex</a>
+                </p>
+            </div>
         </div>
     )
 }

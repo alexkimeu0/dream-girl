@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <div className="header">
             <img src={logo} alt="logo" className="header__logo" />
-            <p>You had me at 'Hello World'.</p>
+            <p>You had me at <span>  Hello World</span></p>
         </div>
     )
 }

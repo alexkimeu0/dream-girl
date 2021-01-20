@@ -1,16 +1,18 @@
 .info {
-    margin-top: 3rem;
+    margin: 1rem 0;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
     text-align: center;
+    padding: 0 1rem;
 }
 
 .info__card {
-    border: 1px solid #f4f4f2;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: .5rem;
-    padding: 1rem;
+    padding: 1.5rem;
+    background-color: #dddddd;
+    margin-bottom: 1rem;
 }
 
 .info__card:hover {
@@ -18,16 +20,19 @@
 }
 
 .info__card > img {
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
     margin-bottom: 1rem;
 }
 
 .info__card > p {
     max-width: 700px;
     line-height: 1.4;
-    letter-spacing: 1px;
+    letter-spacing: 2.5px;
     margin-bottom: .5rem;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .info__arrows {
@@ -36,3 +41,42 @@
     margin-top: 1.5rem;
 }
 
+.MuiSvgIcon-root {
+    color: rgb(211, 3, 166) !important;
+}
+
+.info__caution {
+    position: absolute;
+    bottom: 0;
+    margin: 1rem 0;
+}
+
+.info__caution > p {
+    letter-spacing: 1px;
+    line-height: 1.4;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.info__caution > .copy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    font-size: 14px;
+}
+
+.copy > p {
+    margin-top: 2rem;
+}
+
+.copy > .MuiSvgIcon-root {
+    color: red !important;
+}
+
+.copy > a {
+    text-decoration: none;
+    color: rgb(211, 3, 166);
+    font-size: 14px;
+    font-weight: bold;
+}
