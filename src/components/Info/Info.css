@@ -43,6 +43,7 @@
 
 .MuiSvgIcon-root {
     color: rgb(211, 3, 166) !important;
+    font-weight: bold !important;
 }
 
 .info__caution {

@@ -15,9 +15,10 @@ const Info = () => {
     const [lines, setLines] = useState(mistari)
     const [currentLine, setCutrentLine] = useState({})
 
-    // Set default line on load
+    // Set random line each timeon load
     useEffect(() => {
-        setCutrentLine(lines[0])
+        setCutrentLine(lines[Math.floor(Math.random() * lines.length)])
+        console.log((Math.floor(Math.random()*lines.length)))
     }, [])
 
     // Handle previous click

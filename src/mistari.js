@@ -1,5 +1,4 @@
 import photo from './images/kiss.png'
-import pic from './images/logo.png'
 import queen from './images/queen.jpg'
 import js from './images/js.png'
 import binary from './images/binary.jpg'
@@ -14,6 +13,7 @@ import fav from './images/fav.jpg'
 import knock from './images/knock.jpg'
 import baby from './images/baby.jpg'
 import heart from './images/heart.jpg'
+import kufia from './images/kufia.jpg'
 import down from './images/down.png'
 import eye from './images/eye.png'
 import propose from './images/propose.jpeg'
@@ -68,7 +68,7 @@ const mistari = [
     {
         id: 9,
         line: "Mama yangu bado anafikiria niko hai, lakini nilikukufia kitambo.",
-        image: photo
+        image: kufia
     },
     {
         id: 10,
