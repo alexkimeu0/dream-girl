@@ -47,10 +47,11 @@ const Info = () => {
                     </IconButton>
                 </div>
                 <div class="info__audio">
-                <ReactAudioPlayer
+                <ReactAudioPlayer className="player"
                     src={love}
                     autoPlay
                     controls
+                    loop
                 />
                 </div>
             </div>   
