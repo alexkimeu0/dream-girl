@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import ReactAudioPlayer from 'react-audio-player'
 
 import { IconButton } from '@material-ui/core'
 import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos'
@@ -7,6 +8,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite'
 import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos'
 
 import mistari from '../../mistari'
+import love from '../../music/love.mp3'
 
 import './Info.css'
 
@@ -18,7 +20,6 @@ const Info = () => {
     // Set random line each timeon load
     useEffect(() => {
         setCutrentLine(lines[Math.floor(Math.random() * lines.length)])
-        console.log((Math.floor(Math.random()*lines.length)))
     }, [])
 
     // Handle previous click
@@ -44,6 +45,13 @@ const Info = () => {
                     <IconButton onClick={() => next(currentLine.id)}>
                         <ArrowForwardIosIcon />
                     </IconButton>
+                </div>
+                <div class="info__audio">
+                <ReactAudioPlayer
+                    src={love}
+                    autoPlay
+                    controls
+                />
                 </div>
             </div>   
             

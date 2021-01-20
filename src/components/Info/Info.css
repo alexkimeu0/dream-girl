@@ -52,6 +52,14 @@
     margin: 1rem 0;
 }
 
+audio {
+    outline-width: 0;
+}
+
+.info__frame {
+    display: none;
+}
+
 .info__caution > p {
     letter-spacing: 1px;
     line-height: 1.4;
