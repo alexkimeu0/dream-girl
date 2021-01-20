@@ -57,7 +57,7 @@ const Info = () => {
             </div>   
             
             <div className="info__caution">
-                <p>These sweet nothings don't entirely represent my thoughts, but nikakupata pia siwezi mind mamaa-:)</p>
+                <p>These sweet nothings don't entirely represent my feelings, but nikakupata pia siwezi mind mamaa-:)</p>
                 <p className="copy">
                     Made with mob&nbsp; <FavoriteIcon /> &nbsp;by &copy; <a href="https://github.com/alexkimeu0" target="_blank">Alex</a>
                 </p>
