@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dream-girl/static/css/main.809c8244.chunk.css",
+    "main.js": "/dream-girl/static/js/main.a91562cb.chunk.js",
+    "main.js.map": "/dream-girl/static/js/main.a91562cb.chunk.js.map",
+    "runtime-main.js": "/dream-girl/static/js/runtime-main.f4d881d5.js",
+    "runtime-main.js.map": "/dream-girl/static/js/runtime-main.f4d881d5.js.map",
+    "static/js/2.7213482a.chunk.js": "/dream-girl/static/js/2.7213482a.chunk.js",
+    "static/js/2.7213482a.chunk.js.map": "/dream-girl/static/js/2.7213482a.chunk.js.map",
+    "static/js/3.1120ae40.chunk.js": "/dream-girl/static/js/3.1120ae40.chunk.js",
+    "static/js/3.1120ae40.chunk.js.map": "/dream-girl/static/js/3.1120ae40.chunk.js.map",
+    "index.html": "/dream-girl/index.html",
+    "static/css/main.809c8244.chunk.css.map": "/dream-girl/static/css/main.809c8244.chunk.css.map",
+    "static/js/2.7213482a.chunk.js.LICENSE.txt": "/dream-girl/static/js/2.7213482a.chunk.js.LICENSE.txt",
+    "static/media/baby.78c6dfd5.jpg": "/dream-girl/static/media/baby.78c6dfd5.jpg",
+    "static/media/binary.d9d4f690.jpg": "/dream-girl/static/media/binary.d9d4f690.jpg",
+    "static/media/crazy.4668e4fb.jpg": "/dream-girl/static/media/crazy.4668e4fb.jpg",
+    "static/media/down.ac1f2e4e.png": "/dream-girl/static/media/down.ac1f2e4e.png",
+    "static/media/eye.4e601dfb.png": "/dream-girl/static/media/eye.4e601dfb.png",
+    "static/media/fall.aef80378.jpg": "/dream-girl/static/media/fall.aef80378.jpg",
+    "static/media/fav.44eadd66.jpg": "/dream-girl/static/media/fav.44eadd66.jpg",
+    "static/media/heart.e47b0a46.jpg": "/dream-girl/static/media/heart.e47b0a46.jpg",
+    "static/media/js.8a27d4b2.png": "/dream-girl/static/media/js.8a27d4b2.png",
+    "static/media/knock.241a3fe2.jpg": "/dream-girl/static/media/knock.241a3fe2.jpg",
+    "static/media/kufia.35e9f6e4.jpg": "/dream-girl/static/media/kufia.35e9f6e4.jpg",
+    "static/media/logo.853583d0.png": "/dream-girl/static/media/logo.853583d0.png",
+    "static/media/love.91e74b54.mp3": "/dream-girl/static/media/love.91e74b54.mp3",
+    "static/media/match.d0e8d72f.jpg": "/dream-girl/static/media/match.d0e8d72f.jpg",
+    "static/media/numb.6f2de9cf.jpg": "/dream-girl/static/media/numb.6f2de9cf.jpg",
+    "static/media/propose.a4812adb.jpeg": "/dream-girl/static/media/propose.a4812adb.jpeg",
+    "static/media/queen.985fe458.jpg": "/dream-girl/static/media/queen.985fe458.jpg",
+    "static/media/shy.e098d9af.jpg": "/dream-girl/static/media/shy.e098d9af.jpg",
+    "static/media/tea.ae7eebf4.jpg": "/dream-girl/static/media/tea.ae7eebf4.jpg",
+    "static/media/trash.26b46d82.jpg": "/dream-girl/static/media/trash.26b46d82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d881d5.js",
+    "static/js/2.7213482a.chunk.js",
+    "static/css/main.809c8244.chunk.css",
+    "static/js/main.a91562cb.chunk.js"
+  ]
+}
