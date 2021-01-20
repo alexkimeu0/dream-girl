@@ -1,4 +1,3 @@
-import photo from './images/kiss.png'
 import queen from './images/queen.jpg'
 import js from './images/js.png'
 import binary from './images/binary.jpg'
