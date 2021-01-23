@@ -16,6 +16,7 @@ import kufia from './images/kufia.jpg'
 import down from './images/down.png'
 import eye from './images/eye.png'
 import propose from './images/propose.jpeg'
+import master from './images/master.jpeg'
 
 
 const mistari = [
@@ -108,6 +109,11 @@ const mistari = [
         id: 17,
         line: "Hizi streets zikona doh zangu...wee ukona roho yangu.",
         image: heart
+    },
+    {
+        id: 18,
+        line: "When I first saw you I looked for a signature, because every masterpiece has one.",
+        image: master
     }
 ]
 
